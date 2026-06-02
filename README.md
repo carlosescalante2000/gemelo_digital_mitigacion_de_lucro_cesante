@@ -26,10 +26,10 @@ Desarrollé un **Gemelo Digital** basado en simulación estocástica para modela
 Aquí puedes ver el funcionamiento del sistema en Power BI:
 
 ### Diagnóstico Histórico
-![Diagnóstico Histórico](images/Diagnostico_PowerBI.jpg)
+![Diagnóstico Histórico](images/Diagnostico_PowerBI.png)
 
 ### Optimización y Prescripción de Flujo de Caja
-![Optimización de Caja](images/Optimizacion_Caja.jpg)
+![Optimización de Caja](images/Optimizacion_Caja.png)
 
 ---
 *Autor: Carlos Escalante Sánchez*
