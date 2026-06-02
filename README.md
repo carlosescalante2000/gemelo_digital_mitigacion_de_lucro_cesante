@@ -1,6 +1,6 @@
 # Gemelo Digital: Mitigación de Lucro Cesante
 
-Proyecto E2E (End-to-End) de Ciencia de Datos desarrollado para la certificación *Citizen Data Scientist*, enfocado en la resolución de problemas de inventario en entornos con ausencia de datos históricos estructurados[cite: 1, 2].
+Proyecto E2E (End-to-End) de Ciencia de Datos desarrollado para la certificación *Citizen Data Scientist*, enfocado en la resolución de problemas de inventario en entornos con ausencia de datos históricos estructurados[cite: 1, 2].``
 
 ## 🎯 El Problema
 En "Mercería Tommy", la gestión de inventarios se realizaba de forma empírica y sin registros transaccionales, lo que resultaba en quiebres de stock y pérdidas operativas[cite: 1, 3].
@@ -20,6 +20,16 @@ Desarrollé un **Gemelo Digital** basado en simulación estocástica para modela
 *   **Lenguajes:** Python (Simulación y Modelado).
 *   **Entorno:** Conda Local[cite: 1].
 *   **Visualización:** Power BI (Power Query + Modelos .pkl)[cite: 3].
+
+## 📊 Evidencia Visual del Dashboard
+
+Aquí puedes ver el funcionamiento del sistema en Power BI:
+
+### Diagnóstico Histórico
+![Diagnóstico Histórico](images/Diagnostico_PowerBI.jpg)
+
+### Optimización y Prescripción de Flujo de Caja
+![Optimización de Caja](images/Optimizacion_Caja.jpg)
 
 ---
 *Autor: Carlos Escalante Sánchez*
